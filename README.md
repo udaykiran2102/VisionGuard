@@ -1,7 +1,7 @@
 🛡️ VisionGuard: Realtime Restricted Area Monitoring System
 📌 Overview
 
-VisionGuard is an AI-powered real-time surveillance system designed to monitor restricted areas and detect unauthorized access using computer vision techniques. The system processes live video streams, identifies human presence, and triggers alerts to ensure security and safety.
+VisionGuard is an real-time surveillance system designed to monitor restricted areas and detect unauthorized access using computer vision techniques. The system processes live video streams, identifies human presence, and triggers alerts to ensure security and safety.
 
 It is built to simulate a smart surveillance solution for applications such as campuses, industries, and high-security zones.
 
